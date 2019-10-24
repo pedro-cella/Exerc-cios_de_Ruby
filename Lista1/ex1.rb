@@ -1,3 +1,4 @@
+//Exercicio teste
 print "Digite o numero 1: "
 num1 = gets.to_i
 print "Digite o numero 2: "
