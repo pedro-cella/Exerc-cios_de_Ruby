@@ -1,3 +1,4 @@
+
 puts "Digite o numero 1: "
 num1 = gets.to_i
 puts "Digite o numero 2: "
