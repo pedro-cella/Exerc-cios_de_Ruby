@@ -1,1 +1,1 @@
-# Exericicios_de_Ruby
+# Exercicios_de_Ruby
